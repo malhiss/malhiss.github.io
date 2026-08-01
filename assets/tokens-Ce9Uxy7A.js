@@ -1,0 +1,1 @@
+const a={canvas:"#141b2a",panel:"#1c2436",panel2:"#161d2c",border:"#2e3850",borderStrong:"#3a4560",grid:"#28324a",ink:"#e7ecf5",ink2:"#aab4c6",sub:"#8a95ab",ok:"#2dd4bf",bad:"#e5484d"};export{a as N};

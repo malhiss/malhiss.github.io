@@ -1,0 +1,1 @@
+import{g as e,a as i,S as o,u as r}from"./vendor-gsap-Ct1IhZgb.js";import"./vendor-react-Dz7l0DDk.js";typeof window<"u"&&e.registerPlugin(o,i,r);const s=()=>typeof window<"u"&&window.matchMedia("(prefers-reduced-motion: reduce)").matches;export{o as ScrollTrigger,i as SplitText,e as gsap,s as prefersReducedMotion,r as useGSAP};
